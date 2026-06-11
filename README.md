@@ -2,6 +2,20 @@ Customer Retention & Churn Analysis
 
 End-to-End Customer Analytics Project using Excel, SQL, Python, Machine Learning, and Power BI
 
+Project Highlights
+
+Processed 18,532 retail transactions
+
+Analyzed 4,338 unique customers
+
+Generated $8.89M in revenue insights
+
+Built RFM customer segmentation framework
+
+Developed churn prediction model
+
+Designed interactive Power BI dashboards
+
 Project Overview
 
 Customer retention is one of the most important factors influencing business growth and profitability. Acquiring new customers is often more expensive than retaining existing ones, making customer behavior analysis a critical business function.
